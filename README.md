@@ -73,6 +73,10 @@ Doctor summary (to see all details, run flutter doctor -v):
 - 自分の場合、Androidスタジオを持っていなかったため、追加でインストールした<br>
 https://developer.android.com/studio?hl=ja
 
+- また、latestなんちゃらがないよ！と言われたので、以下からダウンロードした<br>
+
+![追加インストール](img/setting.png "追加インストール")
+
 <br>
 
 ## 参考
