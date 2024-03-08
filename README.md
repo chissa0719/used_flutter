@@ -1,6 +1,8 @@
 # flutterを使ってみた話
 
-# 公式からダウンロードする
+## 公式からダウンロードする
+
+<br>
 
 - まずは公式サイトからflutterを拾ってくる
 https://docs.flutter.dev/get-started/install/windows/web?tab=download#install-the-flutter-sdk
@@ -13,15 +15,22 @@ https://docs.flutter.dev/get-started/install/windows/web?tab=download#install-th
 
 <br>
 
-# PATHを通す
+## PATHを通す
+
+<br>
 
 - インストール場所によってコマンドが変化するので注意
+
+- 以下は、Windows環境でCドライブ直下にダウンロードした場合の例である
 
 ```
 $ export PATH="$PATH:/c/flutter/bin"
 ```
+<br>
 
-# PATHが通ったか確認
+## PATHが通ったか確認
+
+<br>
 
 - PATHをうまく通せていれば、以下コマンドが打てるはずである
 
