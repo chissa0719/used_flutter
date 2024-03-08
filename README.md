@@ -2,9 +2,7 @@
 
 ## 公式からダウンロードする
 
-<br>
-
-- まずは公式サイトからflutterを拾ってくる
+- まずは公式サイトからflutterを拾ってくる<br>
 https://docs.flutter.dev/get-started/install/windows/web?tab=download#install-the-flutter-sdk
 
 - 約2GBの空き容量が必要
@@ -17,8 +15,6 @@ https://docs.flutter.dev/get-started/install/windows/web?tab=download#install-th
 
 ## PATHを通す
 
-<br>
-
 - インストール場所によってコマンドが変化するので注意
 
 - 以下は、Windows環境でCドライブ直下にダウンロードした場合の例である
@@ -29,8 +25,6 @@ $ export PATH="$PATH:/c/flutter/bin"
 <br>
 
 ## PATHが通ったか確認
-
-<br>
 
 - PATHをうまく通せていれば、以下コマンドが打てるはずである
 
