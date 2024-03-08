@@ -69,6 +69,10 @@ Doctor summary (to see all details, run flutter doctor -v):
 ! Doctor found issues in 2 categories.
 
 ```
+
+- 自分の場合、Androidスタジオを持っていなかったため、追加でインストールした<br>
+https://developer.android.com/studio?hl=ja
+
 <br>
 
 ## 参考
